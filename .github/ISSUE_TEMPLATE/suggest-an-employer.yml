@@ -1,0 +1,23 @@
+name: Suggest an employer
+description: A company hiring interns or co-op students in Canada that isn't listed yet.
+title: "Employer: "
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: careers
+    attributes:
+      label: Their careers page
+      description: Where they post their own openings.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else
+      description: Optional.

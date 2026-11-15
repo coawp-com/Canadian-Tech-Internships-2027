@@ -1,0 +1,29 @@
+name: Report a listing
+description: A role that has closed, or has a wrong link or wrong details.
+title: "Listing: "
+body:
+  - type: input
+    id: role
+    attributes:
+      label: Which role
+      description: Its link, or the company and title.
+      placeholder: https://coawp.com/...
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong
+      options:
+        - It has closed
+        - Apply goes to the wrong page
+        - Its place, term or other details are wrong
+        - It isn't an internship, co-op or student job
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else
+      description: Optional.
