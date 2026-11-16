@@ -2,14 +2,14 @@
 
 # Canadian Tech Internships 2027
 
-**521 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**522 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&field=software,data,it_security,product_design&utm_source=github&utm_medium=readme&utm_campaign=tech)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 200 | 12 |
+| [Software Engineering](#software-engineering) | 201 | 13 |
 | [Data & Analytics](#data--analytics) | 87 | 10 |
 | [AI & Machine Learning](#ai--machine-learning) | 52 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 40 | 6 |
@@ -21,10 +21,11 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 
 ## Software Engineering
 
-<sub>200 open roles</sub>
+<sub>201 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Steel** | Software Engineer, Intern | Toronto, ON | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/42c538de-a018-4b56-8c2b-44935a008f17?from=github-tech) |
 | **Workday** | Software Development Engineer, Intern | Vancouver, BC<br><sub>Hybrid</sub> | Winter 2027<br><sub>6 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/b139828d-3126-4508-b416-474af6aec424?from=github-tech) |
 | **Pason Systems** | Software Developer – Datahub, Intern | Calgary, AB | Summer 2027<br><sub>16 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/19b7797a-d33c-4423-a479-6d9328898fc2?from=github-tech) |
 | **Altera** | Quartus Compiler Software, Intern | Toronto, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/4170d2aa-ec8d-4d32-ae1a-f324f9f3c2c7?from=github-tech) |
