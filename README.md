@@ -2,16 +2,16 @@
 
 # Canadian Tech Internships 2027
 
-**519 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**521 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&field=software,data,it_security,product_design&utm_source=github&utm_medium=readme&utm_campaign=tech)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 199 | 12 |
+| [Software Engineering](#software-engineering) | 200 | 12 |
 | [Data & Analytics](#data--analytics) | 87 | 10 |
-| [AI & Machine Learning](#ai--machine-learning) | 51 | 2 |
+| [AI & Machine Learning](#ai--machine-learning) | 52 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 40 | 6 |
 | [Cybersecurity](#cybersecurity) | 15 | 1 |
 | [Product & Project Management](#product--project-management) | 107 | 11 |
@@ -21,7 +21,7 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 
 ## Software Engineering
 
-<sub>199 open roles</sub>
+<sub>200 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -224,6 +224,7 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 | **InstaLILY** | Software Engineer, Co-op | Toronto, ON | — | Jul 31 | [Apply ↗](https://coawp.com/go/024fc3d2-fd02-48c6-bd5d-3f9c92d63fa8?from=github-tech) |
 | **DRW** | Software Developer, Intern | Montréal, QC | — | Jul 13 | [Apply ↗](https://coawp.com/go/88673b9b-916e-4f04-9faa-b6526758653f?from=github-tech) |
 | ↳ | Software Developer, Intern | Montréal, QC | — | Jul 13 | [Apply ↗](https://coawp.com/go/db58430d-dcdc-432d-a3c7-a6b0a6d8414c?from=github-tech) |
+| **TribalScale** | Agile Software Engineer, Co-op | Toronto, ON | — | Jun 9 | [Apply ↗](https://coawp.com/go/67cca2fb-98c3-4207-8ff7-abee8bf401ec?from=github-tech) |
 
 <p align="right"><sub><a href="#canadian-tech-internships-2027">Back to top</a></sub></p>
 
@@ -325,7 +326,7 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 
 ## AI & Machine Learning
 
-<sub>51 open roles</sub>
+<sub>52 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -380,6 +381,7 @@ Also see the lists for [every field](https://github.com/coawp-com/Canadian-Inter
 | **Bree** | Machine Learning Engineering, Co-op | Toronto, ON<br><sub>Remote</sub> | 8 months | Jul 15 | [Apply ↗](https://coawp.com/go/59daab98-c7bc-42d0-a024-bfcb0311b522?from=github-tech) |
 | **Georgian** | AI/​ML Engineer, Intern | Toronto, ON<br><sub>Remote</sub> | — | Jul 14 | [Apply ↗](https://coawp.com/go/4176b4b9-b49b-4b17-8219-b8732cd6b6fb?from=github-tech) |
 | **Later** | AI Automation, Co-op | Vancouver, BC | Spring 2027 | Jun 23 | [Apply ↗](https://coawp.com/go/4047cb8c-1aad-4b25-b4f5-9acb9793ce0b?from=github-tech) |
+| **Block** | Applied Research – Customer World Models, Co-op | Toronto, ON | 8 months | Jun 9 | [Apply ↗](https://coawp.com/go/c795f9e3-5ce3-4d39-8eb0-d3f7d662c85d?from=github-tech) |
 
 <p align="right"><sub><a href="#canadian-tech-internships-2027">Back to top</a></sub></p>
 
