@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**522 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**523 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,12 +11,12 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 201 | 13 |
-| [Data & Analytics](#data--analytics) | 87 | 10 |
+| [Software Engineering](#software-engineering) | 201 | 10 |
+| [Data & Analytics](#data--analytics) | 88 | 9 |
 | [AI & Machine Learning](#ai--machine-learning) | 52 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 40 | 6 |
 | [Cybersecurity](#cybersecurity) | 15 | 1 |
-| [Product & Project Management](#product--project-management) | 107 | 11 |
+| [Product & Project Management](#product--project-management) | 107 | 6 |
 | [Design](#design) | 20 | 2 |
 
 Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -233,10 +233,11 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>87 open roles</sub>
+<sub>88 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **IPEX** | Manufacturing Excellence, Co-op | Oakville, ON | Winter 2027 | Nov 14 | [Apply ↗](https://coawp.com/go/5b32acb9-b84c-4bc4-bdc6-3ce120c2cfde?from=github-tech) |
 | **Seaspan** | Data Engineering, Intern | North Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/a664e131-e5e5-440b-a5b9-6aea6f1c984e?from=github-tech) |
 | **Avanade** | Winter Internship - Canada 2027 | Toronto, ON<br>Ottawa, ON<br><sub>+1 more</sub> | Winter 2027 | Nov 12 | [Apply ↗](https://coawp.com/go/ec7968c3-b138-4b8e-b76e-02c2676bb27a?from=github-tech) |
 | **BMO** | Investment Structuring – GAM, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/102e8036-ddb1-4f66-8f5a-d3cbed5ac81d?from=github-tech) |
