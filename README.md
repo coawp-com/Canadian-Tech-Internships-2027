@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**509 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**511 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 194 | 8 |
+| [Software Engineering](#software-engineering) | 196 | 8 |
 | [Data & Analytics](#data--analytics) | 84 | 13 |
 | [AI & Machine Learning](#ai--machine-learning) | 49 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 44 | 7 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>194 open roles</sub>
+<sub>196 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -97,6 +97,8 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Ciena** | Software Developer Technician, Intern | Québec, QC | Winter 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/6b544bd1-d9a1-4397-b6f7-9720e60c03d4?from=github-tech) |
 | **Hitachi** | Software Analyst, Intern | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/1078e9fe-f5b4-4c1b-bf06-5bcd69d4e0da?from=github-tech) |
 | **Trimble** | Firmware & Machine Learning Engineering, Intern | Richmond Hill, ON | Summer 2027<br><sub>16 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/1078ca29-479d-4902-a32a-693b2738a46d?from=github-tech) |
+| **Fleetway** | AI Development & Continuous Improvement, Intern | Saint John, NB<br>Fredericton, NB | Summer 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/e8376ccc-d0f4-45d9-9db1-2ddc56660af0?from=github-tech) |
+| **J.D. Irving** | AI Development & Continuous Improvement, Intern | Saint John, NB<br>Fredericton, NB | Summer 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/457777d1-1838-4f5a-9f35-e4cac4225771?from=github-tech) |
 | **SOTI** | Software Developer – Server, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/9f23158b-a3bb-4928-a2bf-0da014bfdc8d?from=github-tech) |
 | **Acuity Brands** | Firmware Development, Intern | Brossard, QC | — | Oct 23 | [Apply ↗](https://coawp.com/go/fd02b3d7-300d-4f44-872f-e901d35b1b09?from=github-tech) |
 | **Sony Interactive Entertainment** | Software Developer in Test, Co-op | Waterloo, ON | 12 or 16 months | Oct 23 | [Apply ↗](https://coawp.com/go/c76303df-530e-4467-aae6-c27a1943e4ad?from=github-tech) |
