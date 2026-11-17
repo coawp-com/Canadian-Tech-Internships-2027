@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**488 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**490 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Software Engineering](#software-engineering) | 186 | 12 |
-| [Data & Analytics](#data--analytics) | 76 | 13 |
+| [Data & Analytics](#data--analytics) | 78 | 15 |
 | [AI & Machine Learning](#ai--machine-learning) | 47 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 41 | 7 |
 | [Cybersecurity](#cybersecurity) | 16 | 1 |
@@ -218,11 +218,13 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>76 open roles</sub>
+<sub>78 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
-| **Saputo** | Derivates Product Sales, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC<br>Montréal, QC | — | Nov 15 | [Apply ↗](https://coawp.com/go/ab121030-85c9-4814-be7c-5cbbfed2abe6?from=github-tech) |
+| **City of Campbell River** | OMS Project – Capital Projects, Co-op | Campbell River, BC | — | Nov 17 | [Apply ↗](https://coawp.com/go/0b6ee49b-e732-42e2-b4c1-abb50c7b17cf?from=github-tech) |
+| **Saputo** | Data Engineer – Enterprise Analytics, Intern | Mississauga, ON<br><sub>Hybrid</sub> | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/be4631ca-f0aa-410c-9aa9-59377008e040?from=github-tech) |
+| ↳ | Derivates Product Sales, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC<br>Montréal, QC | — | Nov 15 | [Apply ↗](https://coawp.com/go/ab121030-85c9-4814-be7c-5cbbfed2abe6?from=github-tech) |
 | ↳ | Packaging Data and Sustainability, Intern<br><sub>Requires French</sub> | Saint-Léonard, QC | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/4f23092d-8f7b-4e91-953a-627f19d7be15?from=github-tech) |
 | **Zurich Canada** | Data Analytics & AI, Intern | Toronto, ON | 12 months | Nov 15 | [Apply ↗](https://coawp.com/go/3649947e-f220-49f2-a77e-b2d1fd388c66?from=github-tech) |
 | **IPEX** | Manufacturing Excellence, Co-op | Oakville, ON | Winter 2027 | Nov 14 | [Apply ↗](https://coawp.com/go/5b32acb9-b84c-4bc4-bdc6-3ce120c2cfde?from=github-tech) |
