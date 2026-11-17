@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**495 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**493 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,9 +11,9 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 186 | 10 |
+| [Software Engineering](#software-engineering) | 185 | 10 |
 | [Data & Analytics](#data--analytics) | 80 | 13 |
-| [AI & Machine Learning](#ai--machine-learning) | 48 | 2 |
+| [AI & Machine Learning](#ai--machine-learning) | 47 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 41 | 6 |
 | [Cybersecurity](#cybersecurity) | 16 | 1 |
 | [Product & Project Management](#product--project-management) | 102 | 2 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>186 open roles</sub>
+<sub>185 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -58,7 +58,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **BiblioCommons** | Junior Fullstack Engineer, Intern | Ontario | 16 months | Nov 4 | [Apply ↗](https://coawp.com/go/94c50799-48b0-4cfc-8b9b-7759e1eb7124?from=github-tech) |
 | **Nelnet** | Platform Engineer Intern (8 month term) | Mississauga, ON | Winter 2027<br><sub>8 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/abfd3cc9-2120-4753-b12b-0abc250307fb?from=github-tech) |
 | **Qualcomm** | Telemetry Firmware, Driver and Tools Developer, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/b98fae0c-2efd-4599-a3e0-00afa2f59fc2?from=github-tech) |
-| **RBC** | Software Developer – Capital Markets QTS, Intern | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/f28add49-aae6-4b3b-a6de-285383c9b686?from=github-tech) |
 | **Ryan** | Software Engineering, Intern | Toronto, ON | Summer 2027 | Nov 4 | [Apply ↗](https://coawp.com/go/b67603f9-d4d5-42db-b6ed-ce363a9ccdd7?from=github-tech) |
 | **SOTI** | Performance Test Engineer, Intern | Mississauga, ON | Winter 2027<br><sub>12 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/45eabc3b-6949-4ac4-8911-c376c3510e33?from=github-tech) |
 | ↳ | Performance Test Engineer, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/a7eafeaf-dfaa-447f-8383-423b31d7a0d3?from=github-tech) |
@@ -307,7 +306,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## AI & Machine Learning
 
-<sub>48 open roles</sub>
+<sub>47 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -320,7 +319,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Honeywell Aerospace** | AI, Intern | Kanata, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/2959315c-7684-4d20-8def-bd921891b8e9?from=github-tech) |
 | **Qualcomm** | Machine Learning Engineering, Intern | Markham, ON | Summer 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/add72c3e-78e9-4621-a49c-cd8cad956641?from=github-tech) |
 | **Thomson Reuters** | Research Scientist, Intern | Toronto, ON<br><sub>Remote</sub> | — | Nov 3 | [Apply ↗](https://coawp.com/go/b8243e4b-921a-4228-bf5c-c7c908abd3e6?from=github-tech) |
-| **American Express** | AI Engineer – Enterprise Technology Services, Intern | Toronto, ON<br><sub>Hybrid</sub> | Summer 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/7a76fc8e-25d6-4d8e-98d1-1297e1edae6e?from=github-tech) |
 | **J.D. Irving** | Finance AI Analyst, Intern | Dieppe, NB | Winter 2027<br><sub>5 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/18d6da23-94f6-4392-ae39-1e255bf698d2?from=github-tech) |
 | **Qualcomm** | Deep Learning Research, Intern | Markham, ON | Summer 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/72d5e7e1-5309-4d74-b5c7-b6cb000eccfb?from=github-tech) |
 | **Stripe** | PhD Machine Learning Engineer, Intern | Toronto, ON | Summer 2027 | Oct 30 | [Apply ↗](https://coawp.com/go/5733c6f4-d974-4349-a009-7a56ac7aadbe?from=github-tech) |
@@ -477,7 +475,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Bombardier** | After-Sales Program, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/92e93c9d-1324-4879-880f-9daa4360baea?from=github-tech) |
 | ↳ | Aftermarket Programs, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/f84854b7-0b4a-4dc1-97c6-2ca34370e086?from=github-tech) |
 | **Aecon** | Project Controls, Co-op | Pickering, ON | Winter 2027<br><sub>8 or 16 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/ffb9d671-1ff1-4751-ad4b-cf81ac019ea4?from=github-tech) |
-| **Maple Reinders** | Assistant Project Coordinator – Civil Construction, Co-op | Mississauga, ON | 8 or 12 months | Oct 22 | [Apply ↗](https://coawp.com/go/e1ee2266-5076-4213-8ebb-4d8d8ff92484?from=github-tech) |
+| **Maple Reinders** | Assistant Project Coordinator – Civil Construction, Co-op | Mississauga, ON<br>Pickering, ON | 8 or 12 months | Oct 22 | [Apply ↗](https://coawp.com/go/e1ee2266-5076-4213-8ebb-4d8d8ff92484?from=github-tech) |
 | **SOTI** | Associate Product Manager – XSight, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/f6b06edf-2105-420d-b404-986fd836d834?from=github-tech) |
 | ↳ | Associate Product Manager, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/e1210dad-9800-49ea-889c-cdec70715b64?from=github-tech) |
 | ↳ | Associate Product Manager, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/db53ab8f-c7f4-4774-bf28-969343553090?from=github-tech) |
