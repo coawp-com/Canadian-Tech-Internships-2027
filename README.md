@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**496 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**495 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 187 | 10 |
+| [Software Engineering](#software-engineering) | 186 | 10 |
 | [Data & Analytics](#data--analytics) | 80 | 13 |
 | [AI & Machine Learning](#ai--machine-learning) | 48 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 41 | 6 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>187 open roles</sub>
+<sub>186 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -140,7 +140,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Bombardier** | Software Developer, Intern | Saint-Laurent, QC | Winter 2027<br><sub>8 months</sub> | Oct 14 | [Apply ↗](https://coawp.com/go/e03cc24a-569b-4755-b026-c681e0e42c6d?from=github-tech) |
 | ↳ | Software Development, Intern | Saint-Laurent, QC | Winter 2027<br><sub>8 months</sub> | Oct 14 | [Apply ↗](https://coawp.com/go/ce31717c-c63a-4dcf-ae0c-11f079c70969?from=github-tech) |
 | **Intel** | Compiler Engineering, Intern | Toronto, ON | — | Oct 14 | [Apply ↗](https://coawp.com/go/87d8d097-dc03-4589-bce3-f270eab3fa84?from=github-tech) |
-| **Solink** | Software Engineer – Apps, Co-op | Ottawa, ON<br><sub>Remote</sub> | Winter 2027 | Oct 14 | [Apply ↗](https://coawp.com/go/ad338d9d-4bc2-4780-b1a7-3c0d2c5c14dd?from=github-tech) |
 | **Hitachi** | ITV Automation Specialist, Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>12 months</sub> | Oct 13 | [Apply ↗](https://coawp.com/go/cb068993-671b-4eb8-83a3-3ce63cc962f6?from=github-tech) |
 | **Manulife** | Software Engineering, Co-op | Waterloo, ON | 12 months | Oct 13 | [Apply ↗](https://coawp.com/go/fcd9a625-f3f3-4a61-95e6-1d2a5aed1ffe?from=github-tech) |
 | ↳ | Software Engineering, Intern | Waterloo, ON | Summer 2027<br><sub>4 months</sub> | Oct 13 | [Apply ↗](https://coawp.com/go/ff7c05f1-7a4c-4071-887a-288127c6b469?from=github-tech) |
