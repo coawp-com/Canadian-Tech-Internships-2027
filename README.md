@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**493 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**495 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,19 +11,19 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 185 | 10 |
+| [Software Engineering](#software-engineering) | 186 | 10 |
 | [Data & Analytics](#data--analytics) | 80 | 13 |
 | [AI & Machine Learning](#ai--machine-learning) | 47 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 41 | 6 |
 | [Cybersecurity](#cybersecurity) | 16 | 1 |
 | [Product & Project Management](#product--project-management) | 102 | 2 |
-| [Design](#design) | 22 | 4 |
+| [Design](#design) | 23 | 4 |
 
 Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
 ## Software Engineering
 
-<sub>185 open roles</sub>
+<sub>186 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -64,6 +64,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | Quality Assurance Specialist – Android, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/6c5ed391-d527-4e7f-81e5-19f47d4d5d55?from=github-tech) |
 | ↳ | Software Developer – Android, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/794c5058-9d2a-418e-b57f-adb8126916cc?from=github-tech) |
 | **Honeywell Aerospace** | Embedded Eng, Intern | Kanata, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/be074041-3745-4e8e-a73d-057bee40dec8?from=github-tech) |
+| **DataVisor** | Software Engineer, Intern | Vancouver, BC<br>Calgary, AB<br><sub>Remote, +1 more</sub> | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/3bd75731-710c-48b5-9ca3-7aea696febc7?from=github-tech) |
 | **Global Relay** | Java Developer, Co-op | Halifax, NS | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/99d665a9-7bde-42dc-8ac7-9d729a913ac8?from=github-tech) |
 | ↳ | DevOps, Co-op | Halifax, NS | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/e0289cb8-f9f7-4ec3-9a9f-3174a68b28c7?from=github-tech) |
 | ↳ | Software Development Engineer in Test (SDET), Co-op | Halifax, NS | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/147e0e67-bcf2-44bd-9678-3c04ab551a9b?from=github-tech) |
@@ -548,7 +549,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Design
 
-<sub>22 open roles</sub>
+<sub>23 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -558,6 +559,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | Animation, Co-op | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/5407e5b5-14fd-4426-b742-9183a540bf01?from=github-tech) |
 | **Workday** | UX Designer, Intern | Vancouver, BC<br><sub>Hybrid</sub> | Winter 2027<br><sub>6 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/67457ea4-5bf6-4703-9938-eaa36f4c1fa9?from=github-tech) |
 | **Skeena Resources** | Graphic Design and Marketing, Co-op | Vancouver, BC | Winter 2027<br><sub>6 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/772a66d2-60c7-4a90-8c4e-886adf54c740?from=github-tech) |
+| **Zaber Technologies** | UX/​UI Designer, Co-op | Vancouver, BC | Winter 2027 | Nov 5 | [Apply ↗](https://coawp.com/go/4e35c1eb-8968-4f68-9691-1ff78c9ed470?from=github-tech) |
 | **Stripe** | Product Design, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/dcca3e7a-5af2-4d90-b333-eb7f804b3966?from=github-tech) |
 | **Egis Canada** | Junior Architects & Designers, Intern | Toronto, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/f1014440-4623-4e00-8c88-8fae33165df5?from=github-tech) |
 | **ShyftLabs** | Graphic Design, Intern | Toronto, ON | — | Oct 28 | [Apply ↗](https://coawp.com/go/d02aba71-962f-4b66-bbc5-f24513503206?from=github-tech) |
