@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**486 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**487 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 185 | 12 |
+| [Software Engineering](#software-engineering) | 186 | 13 |
 | [Data & Analytics](#data--analytics) | 76 | 15 |
 | [AI & Machine Learning](#ai--machine-learning) | 47 | 2 |
 | [IT & Infrastructure](#it--infrastructure) | 41 | 7 |
@@ -23,10 +23,11 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>185 open roles</sub>
+<sub>186 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Stantec** | Quality Assurance, Co-op<br><sub>Requires French</sub> | Edmonton, AB<br>Canada<br><sub>Hybrid</sub> | 8 or 12 months | Nov 17 | [Apply ↗](https://coawp.com/go/83d4feff-aaaf-46f8-af63-aa99b422e13f?from=github-tech) |
 | **QSL** | Software Development and Artificial Intelligence, Intern | Québec, QC | Winter 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/05fadf47-b891-4cfe-8ed3-39153066322e?from=github-tech) |
 | **Elk Valley Resources** | Mining and Geology Systems, Co-op | Calgary, AB | Winter 2027<br><sub>8 or 12 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/ea8dbb14-0922-4ea6-b111-3c9e31fdc0a6?from=github-tech) |
 | **SOTI** | Software Developer in Test, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/879eab95-17de-4f18-ac0a-6a484d1ba2b2?from=github-tech) |
