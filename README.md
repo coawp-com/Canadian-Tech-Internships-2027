@@ -11,13 +11,13 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 181 | 19 |
-| [Data & Analytics](#data--analytics) | 70 | 13 |
+| [Software Engineering](#software-engineering) | 181 | 15 |
+| [Data & Analytics](#data--analytics) | 70 | 9 |
 | [AI & Machine Learning](#ai--machine-learning) | 45 | 3 |
-| [IT & Infrastructure](#it--infrastructure) | 39 | 6 |
+| [IT & Infrastructure](#it--infrastructure) | 39 | 3 |
 | [Cybersecurity](#cybersecurity) | 14 | 1 |
 | [Product & Project Management](#product--project-management) | 102 | 6 |
-| [Design](#design) | 21 | 5 |
+| [Design](#design) | 21 | 3 |
 
 Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
