@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**470 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**471 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Software Engineering](#software-engineering) | 181 | 15 |
-| [Data & Analytics](#data--analytics) | 70 | 9 |
+| [Data & Analytics](#data--analytics) | 71 | 9 |
 | [AI & Machine Learning](#ai--machine-learning) | 45 | 3 |
 | [IT & Infrastructure](#it--infrastructure) | 39 | 3 |
 | [Cybersecurity](#cybersecurity) | 14 | 1 |
@@ -213,7 +213,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>70 open roles</sub>
+<sub>71 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -238,6 +238,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **BMO** | Quantitative Analyst, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/13bfdf56-176e-433d-ae98-53b15c7a1980?from=github-tech) |
 | **PCL Construction** | Business Development, Intern | Oakville, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/56b79809-bf4a-4e2a-b349-a84e4a0ca637?from=github-tech) |
 | **Elexicon Energy** | System Control Centre, Co-op | Ajax, ON | 12 or 16 months | Nov 4 | [Apply ↗](https://coawp.com/go/0ee894f8-e31f-41d3-a591-4d25b01b2ab0?from=github-tech) |
+| **BMO** | Investment Team, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/d2cdfc17-49ef-4b13-a1a5-9719439bd329?from=github-tech) |
 | **Aecon** | Assistant Coordinator – Reporting, Co-op | Hamilton, ON | Winter 2027 | Nov 2 | [Apply ↗](https://coawp.com/go/7d344522-f736-4afb-8b35-e4f812567797?from=github-tech) |
 | **Nutrien** | Tax Transformation & Technology, Co-op | Saskatoon, SK | Winter, Summer 2027<br><sub>8 or 12 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/822c7cb6-e38c-427c-aaa7-1c8fa285a25f?from=github-tech) |
 | **Sony Interactive Entertainment** | Global Channel Sales, Intern | Waterloo, ON | — | Nov 2 | [Apply ↗](https://coawp.com/go/8d86abfa-8e29-4cfa-8060-2fa41fd688a4?from=github-tech) |
