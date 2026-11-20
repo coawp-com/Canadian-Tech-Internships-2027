@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**461 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**462 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 178 | 19 |
+| [Software Engineering](#software-engineering) | 179 | 19 |
 | [Data & Analytics](#data--analytics) | 67 | 7 |
 | [AI & Machine Learning](#ai--machine-learning) | 45 | 4 |
 | [IT & Infrastructure](#it--infrastructure) | 39 | 3 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>178 open roles</sub>
+<sub>179 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -61,6 +61,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Varian (Siemens Healthineers)** | Application Software Developer, Co-op | Ottawa, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/808dacd9-4e5e-46b5-bc2b-f97a0678e389?from=github-tech) |
 | ↳ | Embedded Software Developer, Co-op | Ottawa, ON | — | Nov 8 | [Apply ↗](https://coawp.com/go/14594900-3c63-4208-a7c5-c7c04b0b839b?from=github-tech) |
 | **Brave** | Software Engineering, Intern | Canada | 4 months | Nov 6 | [Apply ↗](https://coawp.com/go/5c7a93b1-b856-47b5-978f-d534011827a9?from=github-tech) |
+| **Nokia** | Service Router Test, Intern | Canada | Winter 2027<br><sub>4 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/7dab3692-253f-4fe3-87a6-cc4e85d3e09e?from=github-tech) |
 | **Cisco** | Software Developer Embedded Systems, Co-op | Kanata, ON<br>Saint-Laurent, QC<br><sub>Hybrid, +5 more</sub> | — | Nov 5 | [Apply ↗](https://coawp.com/go/0f113834-4b86-48ca-b3f7-2cf312980c11?from=github-tech) |
 | ↳ | Software Developer Embedded Systems, Co-op | Kanata, ON<br>Saint-Laurent, QC<br><sub>Hybrid, +4 more</sub> | — | Nov 5 | [Apply ↗](https://coawp.com/go/f83e73b2-448d-4712-a7f4-20d8a9d35dc6?from=github-tech) |
 | ↳ | Software Developer Full Stack /​ Backend, Co-op | Kanata, ON<br>Saint-Laurent, QC<br><sub>Hybrid, +6 more</sub> | — | Nov 5 | [Apply ↗](https://coawp.com/go/7cdc82ab-d7d0-454d-9722-eea62de4bf13?from=github-tech) |
