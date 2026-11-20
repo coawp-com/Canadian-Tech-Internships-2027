@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**462 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**461 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 179 | 19 |
+| [Software Engineering](#software-engineering) | 178 | 19 |
 | [Data & Analytics](#data--analytics) | 67 | 7 |
 | [AI & Machine Learning](#ai--machine-learning) | 45 | 4 |
 | [IT & Infrastructure](#it--infrastructure) | 39 | 3 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>179 open roles</sub>
+<sub>178 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -120,7 +120,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | HVP/​Cert Engineering, Intern | Kanata, ON | — | Oct 21 | [Apply ↗](https://coawp.com/go/68e70ee0-5a9a-4dc8-a491-9c5e78e2eb2d?from=github-tech) |
 | ↳ | Linux Engineering, Intern | Kanata, ON | — | Oct 21 | [Apply ↗](https://coawp.com/go/2efeb4e4-bf32-4723-9149-84cda6bac95d?from=github-tech) |
 | ↳ | Linux, Intern | Kanata, ON | — | Oct 21 | [Apply ↗](https://coawp.com/go/857fcc24-da1c-4e66-982a-2e0231ba66dd?from=github-tech) |
-| **Ciena** | Software Developer, Intern | Ottawa, ON | Winter 2027<br><sub>8 or 12 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/6e193869-2e4a-4228-81a4-8c6e02a250f0?from=github-tech) |
 | **Critical Environment Technologies Canada** | Computer Science, Co-op | Delta, BC | — | Oct 21 | [Apply ↗](https://coawp.com/go/88e6af7e-1829-416f-86c2-dff70e88ce2a?from=github-tech) |
 | ↳ | Embedded Tester, Co-op | Delta, BC | — | Oct 21 | [Apply ↗](https://coawp.com/go/a47c4544-82d2-41f6-8f2f-1e034fb790a7?from=github-tech) |
 | **Intel** | Compiler Engineering Graduate, Intern | Toronto, ON | — | Oct 21 | [Apply ↗](https://coawp.com/go/e2a4b2a3-17b9-49b8-8ec8-c6f8dff53141?from=github-tech) |
