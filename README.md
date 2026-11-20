@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**466 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**461 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,19 +11,19 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 179 | 19 |
-| [Data & Analytics](#data--analytics) | 68 | 8 |
-| [AI & Machine Learning](#ai--machine-learning) | 47 | 5 |
+| [Software Engineering](#software-engineering) | 178 | 19 |
+| [Data & Analytics](#data--analytics) | 67 | 7 |
+| [AI & Machine Learning](#ai--machine-learning) | 45 | 4 |
 | [IT & Infrastructure](#it--infrastructure) | 39 | 3 |
 | [Cybersecurity](#cybersecurity) | 13 | 0 |
-| [Product & Project Management](#product--project-management) | 100 | 5 |
+| [Product & Project Management](#product--project-management) | 99 | 4 |
 | [Design](#design) | 20 | 3 |
 
 Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
 ## Software Engineering
 
-<sub>179 open roles</sub>
+<sub>178 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -74,7 +74,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | Quality Assurance Specialist – Android, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/6c5ed391-d527-4e7f-81e5-19f47d4d5d55?from=github-tech) |
 | ↳ | Software Developer – Android, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/794c5058-9d2a-418e-b57f-adb8126916cc?from=github-tech) |
 | **Honeywell Aerospace** | Embedded Eng, Intern | Kanata, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/be074041-3745-4e8e-a73d-057bee40dec8?from=github-tech) |
-| **BMO** | Software Developer, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/da82f13f-3cf7-441d-930d-43f256fcaae3?from=github-tech) |
 | **DataVisor** | Software Engineer, Intern | Vancouver, BC<br>Calgary, AB<br><sub>Remote, +1 more</sub> | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/3bd75731-710c-48b5-9ca3-7aea696febc7?from=github-tech) |
 | **Global Relay** | Java Developer, Co-op | Halifax, NS | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/99d665a9-7bde-42dc-8ac7-9d729a913ac8?from=github-tech) |
 | ↳ | DevOps, Co-op | Halifax, NS | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/e0289cb8-f9f7-4ec3-9a9f-3174a68b28c7?from=github-tech) |
@@ -211,12 +210,11 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>68 open roles</sub>
+<sub>67 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Canadian Solar** | Data Engineering, Intern | Kitchener, ON<br><sub>Hybrid</sub> | — | Nov 18 | [Apply ↗](https://coawp.com/go/8e49a22b-6732-4b10-86e1-d9eae2e3fcbd?from=github-tech) |
-| **RBC** | Portfolio Insight and Risk Oversight, Intern | Toronto, ON | Winter 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/21acdbcf-b437-47e0-b114-892f115efa26?from=github-tech) |
 | **City of Campbell River** | OMS Project – Capital Projects, Co-op | Campbell River, BC | — | Nov 17 | [Apply ↗](https://coawp.com/go/0b6ee49b-e732-42e2-b4c1-abb50c7b17cf?from=github-tech) |
 | **Saputo** | Data Engineer – Enterprise Analytics, Intern | Mississauga, ON<br><sub>Hybrid</sub> | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/be4631ca-f0aa-410c-9aa9-59377008e040?from=github-tech) |
 | ↳ | Derivates Product Sales, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC<br>Montréal, QC | — | Nov 15 | [Apply ↗](https://coawp.com/go/ab121030-85c9-4814-be7c-5cbbfed2abe6?from=github-tech) |
@@ -288,19 +286,17 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## AI & Machine Learning
 
-<sub>47 open roles</sub>
+<sub>45 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **MDA Space** | Engineering – AI/​ML Specialist, Intern | Richmond, BC | Winter 2027<br><sub>8 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/fa0dc0a1-0a02-4913-af75-4bc569985ec5?from=github-tech) |
 | **Georgian** | Physical AI & Robotics, Intern | Toronto, ON<br><sub>Remote</sub> | — | Nov 19 | [Apply ↗](https://coawp.com/go/f631fd63-a2ea-4a07-be3f-27266b0bc40e?from=github-tech) |
-| **RBC** | AI Developer – Innovation & AI Center of Excellence, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/d5f756e4-b9ff-4df1-902c-e74437e29544?from=github-tech) |
 | **Qualcomm** | AI/​Machine Learning, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/a2aa07d0-653a-4d9c-8f45-e1fe118aa41e?from=github-tech) |
 | **Lumentum** | AI Engineer, Co-op | Ottawa, ON | Winter 2027<br><sub>8 or 12 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/82c0471b-c900-43f4-b035-b86c3aa81b8f?from=github-tech) |
 | **Ciena** | AI/​ML Layout Engineering, Intern | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/4556bdf1-5e69-4013-9140-b2929b21fc14?from=github-tech) |
 | **Mawer Investment Management** | AI Orchestrator, Intern | Calgary, AB | Winter 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/6d9f6e9b-6998-492f-b0a1-b029f34ff770?from=github-tech) |
 | ↳ | AI Engineer, Intern | Calgary, AB | Winter 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/2fcb51e3-a8db-4910-ac56-884ebcbd835b?from=github-tech) |
-| **Element Fleet Management** | Forward Deployed Engineer (FDE), Intern | Toronto, ON | 8 or 12 months | Nov 4 | [Apply ↗](https://coawp.com/go/052ebe4b-cca5-47ae-8260-82f93829d108?from=github-tech) |
 | **Honeywell Aerospace** | AI, Intern | Kanata, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/2959315c-7684-4d20-8def-bd921891b8e9?from=github-tech) |
 | **Qualcomm** | Machine Learning Engineering, Intern | Markham, ON | Summer 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/add72c3e-78e9-4621-a49c-cd8cad956641?from=github-tech) |
 | **Thomson Reuters** | Research Scientist, Intern | Toronto, ON<br><sub>Remote</sub> | — | Nov 3 | [Apply ↗](https://coawp.com/go/b8243e4b-921a-4228-bf5c-c7c908abd3e6?from=github-tech) |
@@ -414,7 +410,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Product & Project Management
 
-<sub>100 open roles</sub>
+<sub>99 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -422,7 +418,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **TD** | Commercial Deposits, Money Movement, Digital Channels, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/bbfbbafe-e53d-41e1-b1b4-ad5b3b5cd53a?from=github-tech) |
 | **ABB** | Project Management, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC | Winter 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/3d642d6c-ca47-4f18-84a0-dd92bd585a94?from=github-tech) |
 | **BDO Canada** | Business Analysis & Quality Assurance, Intern | Ottawa, ON | Winter 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/a0f18556-e4be-4b66-905d-c4222bbc770a?from=github-tech) |
-| **Manulife** | Technology Enablement Analyst, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/8ece96db-5ad5-40c1-a397-1078faa6225f?from=github-tech) |
 | **Groupe Montoni** | Project Management, Intern<br><sub>Requires French</sub> | Laval, QC | Winter 2027 | Nov 13 | [Apply ↗](https://coawp.com/go/c252f59d-32a1-4992-ab0a-a930915f4d03?from=github-tech) |
 | **Seaspan** | Business Analysis & Project Coordination, Intern | North Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/f17a93e1-e1ad-42a7-83b4-a6109655d0c9?from=github-tech) |
 | **Aecon** | Project Coordinator, Co-op | Toronto, ON | 12 months | Nov 10 | [Apply ↗](https://coawp.com/go/1b74391a-7c9b-4f58-8703-c888b7ab545b?from=github-tech) |
