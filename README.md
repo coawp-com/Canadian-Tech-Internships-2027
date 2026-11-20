@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**467 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**466 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -15,7 +15,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Data & Analytics](#data--analytics) | 68 | 8 |
 | [AI & Machine Learning](#ai--machine-learning) | 47 | 5 |
 | [IT & Infrastructure](#it--infrastructure) | 39 | 3 |
-| [Cybersecurity](#cybersecurity) | 14 | 0 |
+| [Cybersecurity](#cybersecurity) | 13 | 0 |
 | [Product & Project Management](#product--project-management) | 100 | 5 |
 | [Design](#design) | 20 | 3 |
 
@@ -392,7 +392,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Cybersecurity
 
-<sub>14 open roles</sub>
+<sub>13 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -409,7 +409,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Fleetway** | Security Analyst, Co-op | Saint John, NB | Winter 2027 | Sep 23 | [Apply ↗](https://coawp.com/go/41f9c3d3-a88b-4a04-b70b-23a55a4e7cf3?from=github-tech) |
 | **J.D. Irving** | Security Analyst, Co-op | Saint John, NB | Winter 2027 | Sep 23 | [Apply ↗](https://coawp.com/go/5eb9033f-1139-4ed0-9648-4108b666c890?from=github-tech) |
 | **AlayaCare** | Security Analyst, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027 | Sep 17 | [Apply ↗](https://coawp.com/go/a18b4182-3da6-4b00-835a-64a8f9df8dce?from=github-tech) |
-| **GeoComply** | Browser Security Engineer, Intern | Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Jul 9 | [Apply ↗](https://coawp.com/go/9a73044d-4d3f-41a9-95f3-cbc5f77cc89e?from=github-tech) |
 
 <p align="right"><sub><a href="#canadian-tech-internships-2027">Back to top</a></sub></p>
 
