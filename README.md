@@ -12,7 +12,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Software Engineering](#software-engineering) | 177 | 20 |
-| [Data & Analytics](#data--analytics) | 69 | 10 |
+| [Data & Analytics](#data--analytics) | 69 | 9 |
 | [AI & Machine Learning](#ai--machine-learning) | 44 | 5 |
 | [IT & Infrastructure](#it--infrastructure) | 38 | 4 |
 | [Cybersecurity](#cybersecurity) | 10 | 1 |
