@@ -11,8 +11,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 178 | 20 |
-| [Data & Analytics](#data--analytics) | 68 | 9 |
+| [Software Engineering](#software-engineering) | 177 | 20 |
+| [Data & Analytics](#data--analytics) | 69 | 10 |
 | [AI & Machine Learning](#ai--machine-learning) | 44 | 5 |
 | [IT & Infrastructure](#it--infrastructure) | 38 | 4 |
 | [Cybersecurity](#cybersecurity) | 13 | 0 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>178 open roles</sub>
+<sub>177 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -128,7 +128,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Qualcomm** | AI and DSP Applications Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/be98c4bb-0157-47ef-854c-ea1ac03d85e8?from=github-tech) |
 | **Rakuten Kobo** | eReader Quality Assurance, Intern | Toronto, ON | Winter 2027<br><sub>12 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/a1d18de1-c0a9-45fb-849e-57453b9f1ba2?from=github-tech) |
 | **GeoSpectrum Technologies** | Software Developer, Co-op | Dartmouth, NS | — | Oct 20 | [Apply ↗](https://coawp.com/go/03e8573a-54e1-4a49-8573-b78629bfe3b7?from=github-tech) |
-| **Qualcomm** | Display Systems Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/ff4fb597-b084-4add-a172-70197c0b626e?from=github-tech) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering – Vehicle Controls, Intern | Vancouver, BC<br><sub>Remote</sub> | Winter 2027<br><sub>8 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/ec2dcdac-2bcb-4dc7-8cd5-fa81f0274ab7?from=github-tech) |
 | **Eclipse Automation** | Controls Software Design, Co-op | Cambridge, ON | — | Oct 20 | [Apply ↗](https://coawp.com/go/4bdbc585-b107-4163-b047-89d460e1d75a?from=github-tech) |
 | ↳ | Software Design – Nuclear, Co-op | Cambridge, ON | — | Oct 20 | [Apply ↗](https://coawp.com/go/f2ef7a95-2aa1-4631-97f4-c893f4d01c49?from=github-tech) |
@@ -210,12 +209,13 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>68 open roles</sub>
+<sub>69 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Calgary Airport Authority** | Spatial Data (GIS), Co-op | Calgary, AB | Winter 2027<br><sub>6 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/ee74886b-2e39-43b9-baf5-ea018c4fdee7?from=github-tech) |
 | **Sun Life** | Data Analyst, Co-op | Toronto, ON<br>Waterloo, ON | Winter, Summer, Fall 2027<br><sub>4, 8 or 12 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/89957dbd-d70a-4379-b353-6b50e9c72739?from=github-tech) |
+| **TMX Group** | Canadian Capital Markets, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/0fa4e162-5c03-4cda-8985-c5f276fb6223?from=github-tech) |
 | **Canadian Solar** | Data Engineering, Intern | Kitchener, ON<br><sub>Hybrid</sub> | — | Nov 18 | [Apply ↗](https://coawp.com/go/8e49a22b-6732-4b10-86e1-d9eae2e3fcbd?from=github-tech) |
 | **City of Campbell River** | OMS Project – Capital Projects, Co-op | Campbell River, BC | — | Nov 17 | [Apply ↗](https://coawp.com/go/0b6ee49b-e732-42e2-b4c1-abb50c7b17cf?from=github-tech) |
 | **Saputo** | Data Engineer – Enterprise Analytics, Intern | Mississauga, ON<br><sub>Hybrid</sub> | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/be4631ca-f0aa-410c-9aa9-59377008e040?from=github-tech) |
