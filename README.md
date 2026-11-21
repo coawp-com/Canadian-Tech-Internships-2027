@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**458 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**454 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -15,8 +15,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [Data & Analytics](#data--analytics) | 69 | 10 |
 | [AI & Machine Learning](#ai--machine-learning) | 44 | 5 |
 | [IT & Infrastructure](#it--infrastructure) | 38 | 4 |
-| [Cybersecurity](#cybersecurity) | 13 | 0 |
-| [Product & Project Management](#product--project-management) | 97 | 7 |
+| [Cybersecurity](#cybersecurity) | 12 | 0 |
+| [Product & Project Management](#product--project-management) | 94 | 7 |
 | [Design](#design) | 20 | 3 |
 
 Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -387,14 +387,13 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Cybersecurity
 
-<sub>13 open roles</sub>
+<sub>12 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Kingston Midstream** | IS&T Cybersecurity, Co-op | Calgary, AB | — | Nov 13 | [Apply ↗](https://coawp.com/go/abbf956f-418f-4a14-b22b-0cedd27509f8?from=github-tech) |
 | **Magnet Forensics** | Information Security Analyst, Co-op | Waterloo, ON<br><sub>Remote</sub> | Winter 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/894fb1b7-b09d-4a22-8761-6812f69a2406?from=github-tech) |
-| **TMX Group** | Junior Cybersecurity Operations Analyst, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/aff60085-78e4-45d9-b52a-7fe97a743f32?from=github-tech) |
-| ↳ | Security Analyst, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/03789af5-f9f4-4c4c-aff4-1cd0ee6b5ba7?from=github-tech) |
+| **TMX Group** | Security Analyst, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/03789af5-f9f4-4c4c-aff4-1cd0ee6b5ba7?from=github-tech) |
 | ↳ | Security Engineering, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 3 | [Apply ↗](https://coawp.com/go/14c1b25f-1434-427a-8c19-56ee128d22e0?from=github-tech) |
 | ↳ | Junior GRC Analyst, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/5af97d66-adaa-4939-b916-2c3e9acb46cf?from=github-tech) |
 | **CAE** | IT Security – Vulnerability Management, Intern | Montréal, QC | — | Oct 21 | [Apply ↗](https://coawp.com/go/d061a790-00dc-468c-ad53-666452c7f3f2?from=github-tech) |
@@ -409,7 +408,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Product & Project Management
 
-<sub>97 open roles</sub>
+<sub>94 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -446,7 +445,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | Project Management/​Technology, Intern | Oakville, ON | Winter 2027<br><sub>8 or 16 months</sub> | Oct 31 | [Apply ↗](https://coawp.com/go/108a8f33-d186-47c4-b24a-68c399975002?from=github-tech) |
 | **Teck** | Business Analyst – Data Platform, Co-op | Vancouver, BC | 8 months | Oct 30 | [Apply ↗](https://coawp.com/go/066a0fcf-54c3-4c4d-a7c3-573efd9f82ec?from=github-tech) |
 | **Powerex** | Business Analyst IT, Co-op | Vancouver, BC | 4 or 8 months | Oct 29 | [Apply ↗](https://coawp.com/go/1b3d78e6-3f0d-434c-b879-f36fb90b1448?from=github-tech) |
-| **TMX Group** | Project Analyst, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/a321ee77-58e8-4c3a-a2c1-c71f2ef56aa8?from=github-tech) |
 | **Bird Construction** | Project Coordinator, Student | Vancouver, BC | Winter 2027<br><sub>8, 12 or 16 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/a9b43cfe-677c-48cd-8f80-227ff70ad2e8?from=github-tech) |
 | **Bombardier** | After-Sales Program, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/92e93c9d-1324-4879-880f-9daa4360baea?from=github-tech) |
 | ↳ | Aftermarket Programs, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/f84854b7-0b4a-4dc1-97c6-2ca34370e086?from=github-tech) |
@@ -496,8 +494,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Extreme Networks** | Multimedia Project Management, Intern | Thornhill, ON<br><sub>Remote</sub> | — | Sep 28 | [Apply ↗](https://coawp.com/go/3713a898-a654-44fd-83af-e4f733d13978?from=github-tech) |
 | **Bird Construction** | Project Coordinator – Data Centres, Student | Regina, SK | Winter 2027<br><sub>8 or 12 months</sub> | Sep 27 | [Apply ↗](https://coawp.com/go/325bc0de-05d0-41c5-b8bc-b1b67a432e7c?from=github-tech) |
 | **Teck** | Business Analyst, Co-op | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Sep 25 | [Apply ↗](https://coawp.com/go/c03454ea-7965-4a36-8c6e-dac6e0072f89?from=github-tech) |
-| **Fleetway** | IT Business Analyst, Intern | Moncton, NB | Winter 2027 | Sep 24 | [Apply ↗](https://coawp.com/go/112affd7-e4aa-4184-85a4-8aa06cc3cd09?from=github-tech) |
-| **J.D. Irving** | IT Business Analyst, Intern | Moncton, NB | Winter 2027 | Sep 24 | [Apply ↗](https://coawp.com/go/faa89b91-414b-446e-8938-be82c56879f0?from=github-tech) |
 | **Murex** | Trading Domain Functional, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Sep 23 | [Apply ↗](https://coawp.com/go/60629800-9ba4-4bc2-90d6-73ccfca74dce?from=github-tech) |
 | **Bird Construction** | Project Coordinator, Student | Ottawa, ON | Winter 2027<br><sub>4 or 8 months</sub> | Sep 22 | [Apply ↗](https://coawp.com/go/f9e16c79-cb64-4587-9adb-b1774f3236c9?from=github-tech) |
 | **Clark Builders** | Project Coordinator, Intern | Red Deer, AB<br>Calgary, AB | 4, 8 or 12 months | Sep 22 | [Apply ↗](https://coawp.com/go/361ef53d-99be-4db0-8279-ecbd6bdcc4f0?from=github-tech) |
