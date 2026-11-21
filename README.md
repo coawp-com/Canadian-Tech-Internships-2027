@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**447 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**446 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 176 | 19 |
+| [Software Engineering](#software-engineering) | 175 | 18 |
 | [Data & Analytics](#data--analytics) | 68 | 8 |
 | [AI & Machine Learning](#ai--machine-learning) | 44 | 5 |
 | [IT & Infrastructure](#it--infrastructure) | 38 | 4 |
@@ -23,11 +23,10 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>176 open roles</sub>
+<sub>175 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
-| **AON3D** | Software Developer, Intern | Montréal, QC | Winter 2027 | Nov 20 | [Apply ↗](https://coawp.com/go/f1cecd26-bf45-410c-9292-0ab0906d7b28?from=github-tech) |
 | **Workstream** | Full Stack Engineer, Co-op | Vancouver, BC | — | Nov 18 | [Apply ↗](https://coawp.com/go/56c9618b-ca79-4040-9a6e-09a43e2f2a30?from=github-tech) |
 | **BDO Canada** | Full-Stack Developer, Co-op | Toronto, ON<br>Ottawa, ON<br><sub>+1 more</sub> | Winter 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/06b69f51-2ab7-4d38-860b-366b06ca074f?from=github-tech) |
 | **Euna Solutions (Bonfire, Questica)** | Associate AI-Enablement Developer, Co-op | Oakville, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/b8cafb7f-c9ab-4cbf-9b2c-39b22b7bd229?from=github-tech) |
