@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**441 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**440 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 171 | 17 |
+| [Software Engineering](#software-engineering) | 170 | 17 |
 | [Data & Analytics](#data--analytics) | 67 | 5 |
 | [AI & Machine Learning](#ai--machine-learning) | 44 | 4 |
 | [IT & Infrastructure](#it--infrastructure) | 38 | 3 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>171 open roles</sub>
+<sub>170 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -89,8 +89,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Teck** | Cloud Platform Developer, Co-op | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Oct 30 | [Apply ↗](https://coawp.com/go/5b500f87-cb4b-4973-b6ae-3bcbf41e3d6d?from=github-tech) |
 | **Accenture** | Entry Level Technology Development Program – Summer Analyst<br><sub>Requires French</sub> | Toronto, ON<br>Ottawa, ON<br><sub>+4 more</sub> | Summer 2027 | Oct 29 | [Apply ↗](https://coawp.com/go/a6ecbfad-dea9-4845-86f1-36512e7b15b8?from=github-tech) |
 | **Qualcomm** | Camera Systems, Intern | Vancouver, BC | Summer 2027<br><sub>16 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/45c69f05-a2c7-4b9f-8c9e-8ece78c1bf42?from=github-tech) |
-| **Ciena** | Embedded Software Engineer, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/826b91f1-5b46-4350-9b1b-85de99bb6e0a?from=github-tech) |
-| ↳ | Hardware Characterization Automation, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/4f8ea9a9-9cea-4c4f-9a98-62e16a9433f8?from=github-tech) |
+| **Ciena** | Hardware Characterization Automation, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/4f8ea9a9-9cea-4c4f-9a98-62e16a9433f8?from=github-tech) |
 | **SOTI** | QA, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/61ae67c1-5c4a-4edc-bb74-2424cd7163cc?from=github-tech) |
 | **Aptiv (Wind River)** | Cloud Engineering, Intern | Kanata, ON | — | Oct 27 | [Apply ↗](https://coawp.com/go/916c644a-ce02-4798-844b-02a78a721345?from=github-tech) |
 | **Xradar** | Software Engineer, Co-op | Burnaby, BC | Winter 2027 | Oct 27 | [Apply ↗](https://coawp.com/go/f91058a7-c2de-43a6-a143-48d1bf284dfe?from=github-tech) |
