@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**443 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**441 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 173 | 17 |
+| [Software Engineering](#software-engineering) | 171 | 17 |
 | [Data & Analytics](#data--analytics) | 67 | 5 |
 | [AI & Machine Learning](#ai--machine-learning) | 44 | 4 |
 | [IT & Infrastructure](#it--infrastructure) | 38 | 3 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>173 open roles</sub>
+<sub>171 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -105,8 +105,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Kinaxis** | Full Stack Developer (C#), Intern | Ottawa, ON | Winter 2027<br><sub>8 or 12 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/48ec87d8-97a2-41ec-bdaf-f3600183c02a?from=github-tech) |
 | **Aptiv (Wind River)** | Engineering, Intern | Kanata, ON | — | Oct 22 | [Apply ↗](https://coawp.com/go/fb11caf1-84d2-44dd-b877-7693e2723852?from=github-tech) |
 | **Thales** | Tools Development & Tooled Process, Intern<br><sub>Requires French</sub> | Montréal, QC<br><sub>Hybrid</sub> | 4 months | Oct 22 | [Apply ↗](https://coawp.com/go/001d6405-fb30-48dc-bcf3-adc05429db4b?from=github-tech) |
-| **Trimble** | Automated Test Engineering, Co-op | Richmond Hill, ON | Summer 2027<br><sub>16 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/bea677c2-ab0a-4097-9884-6f297f52e060?from=github-tech) |
-| ↳ | Software Engineering, Co-op | Richmond Hill, ON | Summer 2027<br><sub>12 or 16 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/5c842d2b-1a8f-4d9a-9f67-12e9492f97df?from=github-tech) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering – Vehicle Controls, Intern | Vancouver, BC<br><sub>Remote</sub> | Summer 2027 | Oct 22 | [Apply ↗](https://coawp.com/go/c7533fe4-00fe-43f8-be80-bb5eb28c74da?from=github-tech) |
 | ↳ | Software Engineering – Embedded Platforms, Intern | Vancouver, BC<br><sub>Remote</sub> | Summer 2027 | Oct 22 | [Apply ↗](https://coawp.com/go/fbba4265-4258-41e3-b876-3380804a172a?from=github-tech) |
 | ↳ | Software Engineering – Connected Systems, Intern | Vancouver, BC<br><sub>Remote</sub> | Summer 2027 | Oct 22 | [Apply ↗](https://coawp.com/go/87f207c4-5fed-4278-ab1e-62a34d8cb230?from=github-tech) |
