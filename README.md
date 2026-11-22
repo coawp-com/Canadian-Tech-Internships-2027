@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**444 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**443 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 174 | 18 |
+| [Software Engineering](#software-engineering) | 173 | 18 |
 | [Data & Analytics](#data--analytics) | 67 | 8 |
 | [AI & Machine Learning](#ai--machine-learning) | 44 | 5 |
 | [IT & Infrastructure](#it--infrastructure) | 38 | 4 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>174 open roles</sub>
+<sub>173 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -152,7 +152,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **MDA Space** | Engineering – Python Test Data Processing, Intern | Sainte-Anne-de-Bellevue, QC | Winter 2027<br><sub>4 or 8 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/1edd2d42-b9f0-4eff-a528-eab447679fb1?from=github-tech) |
 | ↳ | Engineering – DevOps, Intern<br><sub>Requires French</sub> | Sainte-Anne-de-Bellevue, QC | Winter 2027<br><sub>4 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/a485ddda-55f6-453f-bfbf-61f6b0e2fb05?from=github-tech) |
 | **Tenstorrent** | AI Software – Cloud, Infrastructure & Data Centre, Intern | Toronto, ON | — | Oct 6 | [Apply ↗](https://coawp.com/go/667c3388-ade9-4cd8-8094-c117e62f1950?from=github-tech) |
-| **Moment Energy** | Software Engineering, Co-op | Surrey, BC | Winter 2027 | Oct 5 | [Apply ↗](https://coawp.com/go/e3cb0447-280a-46b9-a067-bf5071822bd1?from=github-tech) |
 | **CAE** | Full Stack Developer, Intern | Montréal, QC | — | Oct 5 | [Apply ↗](https://coawp.com/go/62d2b1b6-e7fc-4152-b7df-5d62e9a55b5d?from=github-tech) |
 | **Lumentum** | Embedded Software Engineer, Co-op | Ottawa, ON | 8 or 12 months | Oct 5 | [Apply ↗](https://coawp.com/go/110ebfe9-dd45-4d89-bfce-af58d75c016b?from=github-tech) |
 | **Semios** | Software Developer, Co-op | Vancouver, BC | Winter 2027 | Oct 5 | [Apply ↗](https://coawp.com/go/c6e0e0b6-f9df-4688-98c9-c11e8af6e19d?from=github-tech) |
