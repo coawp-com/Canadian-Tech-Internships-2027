@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**440 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**438 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,12 +12,12 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Software Engineering](#software-engineering) | 170 | 17 |
-| [Data & Analytics](#data--analytics) | 67 | 5 |
+| [Data & Analytics](#data--analytics) | 66 | 5 |
 | [AI & Machine Learning](#ai--machine-learning) | 44 | 4 |
 | [IT & Infrastructure](#it--infrastructure) | 38 | 3 |
 | [Cybersecurity](#cybersecurity) | 10 | 1 |
 | [Product & Project Management](#product--project-management) | 92 | 8 |
-| [Design](#design) | 19 | 2 |
+| [Design](#design) | 18 | 1 |
 
 Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
 
@@ -202,7 +202,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>67 open roles</sub>
+<sub>66 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -213,7 +213,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Saputo** | Data Engineer – Enterprise Analytics, Intern | Mississauga, ON<br><sub>Hybrid</sub> | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/be4631ca-f0aa-410c-9aa9-59377008e040?from=github-tech) |
 | ↳ | Derivates Product Sales, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC<br>Montréal, QC | — | Nov 15 | [Apply ↗](https://coawp.com/go/ab121030-85c9-4814-be7c-5cbbfed2abe6?from=github-tech) |
 | ↳ | Packaging Data and Sustainability, Intern<br><sub>Requires French</sub> | Saint-Léonard, QC | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/4f23092d-8f7b-4e91-953a-627f19d7be15?from=github-tech) |
-| **Zurich Canada** | Data Analytics & AI, Intern | Toronto, ON | 12 months | Nov 15 | [Apply ↗](https://coawp.com/go/3649947e-f220-49f2-a77e-b2d1fd388c66?from=github-tech) |
 | **IPEX** | Manufacturing Excellence, Co-op | Oakville, ON | Winter 2027 | Nov 14 | [Apply ↗](https://coawp.com/go/5b32acb9-b84c-4bc4-bdc6-3ce120c2cfde?from=github-tech) |
 | **Kingston Midstream** | Data Science, Co-op | Calgary, AB | — | Nov 13 | [Apply ↗](https://coawp.com/go/27076b63-7f8d-47f9-9c2e-c0d68a125622?from=github-tech) |
 | ↳ | GIS, Co-op | Calgary, AB | Winter 2027<br><sub>8 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/16b19809-77ca-4e94-9d14-503889b7d5a1?from=github-tech) |
@@ -498,12 +497,11 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Design
 
-<sub>19 open roles</sub>
+<sub>18 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Definity** | Graphic Design Specialist, Co-op | Waterloo, ON | Winter 2027<br><sub>4 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/e30cf8f8-d994-4dd6-b1ab-cd0f62fa21fa?from=github-tech) |
-| **Zurich Canada** | Graphic Design and Marketing, Intern | Toronto, ON | — | Nov 16 | [Apply ↗](https://coawp.com/go/741390fc-7e9d-4b92-8ea9-cc2fdaac41b5?from=github-tech) |
 | **Kabam** | Animateur, Co-op | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/bb676cf3-f5e5-438c-bcb5-a0404796e571?from=github-tech) |
 | ↳ | Animation, Co-op | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/5407e5b5-14fd-4426-b742-9183a540bf01?from=github-tech) |
 | **Skeena Resources** | Graphic Design and Marketing, Co-op | Vancouver, BC | Winter 2027<br><sub>6 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/772a66d2-60c7-4a90-8c4e-886adf54c740?from=github-tech) |
