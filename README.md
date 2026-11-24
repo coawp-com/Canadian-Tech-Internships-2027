@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**424 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**421 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,7 +11,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 166 | 15 |
+| [Software Engineering](#software-engineering) | 163 | 16 |
 | [Data & Analytics](#data--analytics) | 61 | 5 |
 | [AI & Machine Learning](#ai--machine-learning) | 43 | 3 |
 | [IT & Infrastructure](#it--infrastructure) | 40 | 6 |
@@ -23,7 +23,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>166 open roles</sub>
+<sub>163 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -31,6 +31,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | Software Development – Web3 Core, Intern | Canada | 4 months | Nov 23 | [Apply ↗](https://coawp.com/go/8d780f47-925c-4e88-9067-87c3e6c54395?from=github-tech) |
 | **QSL** | Software Development and Artificial Intelligence, Intern | Québec, QC | Winter 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/86043022-23dd-42e7-b0ed-04f96629088b?from=github-tech) |
 | **Canadian Tire** | Software Development, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/69632e00-cc9f-4143-98b3-6d9d29a27449?from=github-tech) |
+| **SOTI** | Software Developer, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/0477b3d6-c8ae-487b-a21a-e6dc1f98bb9e?from=github-tech) |
 | **Workstream** | Full Stack Engineer, Co-op | Vancouver, BC | — | Nov 18 | [Apply ↗](https://coawp.com/go/56c9618b-ca79-4040-9a6e-09a43e2f2a30?from=github-tech) |
 | **BDO Canada** | Full-Stack Developer, Co-op | Toronto, ON<br>Ottawa, ON<br><sub>+1 more</sub> | Winter 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/06b69f51-2ab7-4d38-860b-366b06ca074f?from=github-tech) |
 | **Euna Solutions (Bonfire, Questica)** | Associate AI-Enablement Developer, Co-op | Oakville, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/b8cafb7f-c9ab-4cbf-9b2c-39b22b7bd229?from=github-tech) |
@@ -74,10 +75,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | Software Developer – Android, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/794c5058-9d2a-418e-b57f-adb8126916cc?from=github-tech) |
 | **Honeywell Aerospace** | Embedded Eng, Intern | Kanata, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/be074041-3745-4e8e-a73d-057bee40dec8?from=github-tech) |
 | **DataVisor** | Software Engineer, Intern | Vancouver, BC<br>Calgary, AB<br><sub>Remote, +1 more</sub> | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/3bd75731-710c-48b5-9ca3-7aea696febc7?from=github-tech) |
-| **Global Relay** | Java Developer, Co-op | Halifax, NS | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/99d665a9-7bde-42dc-8ac7-9d729a913ac8?from=github-tech) |
-| ↳ | DevOps, Co-op | Halifax, NS | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/e0289cb8-f9f7-4ec3-9a9f-3174a68b28c7?from=github-tech) |
-| ↳ | Software Development Engineer in Test (SDET), Co-op | Halifax, NS | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/147e0e67-bcf2-44bd-9678-3c04ab551a9b?from=github-tech) |
-| ↳ | Software Development Engineer in Test (SDET), Co-op | Vancouver, BC | Winter 2027 | Nov 3 | [Apply ↗](https://coawp.com/go/206cc138-ac38-4e97-847b-c03ff4a9d8d7?from=github-tech) |
 | **Arlo Technologies** | Firmware Developer, Co-op | Richmond, BC | 8 months | Nov 2 | [Apply ↗](https://coawp.com/go/36740ba5-187d-4039-a34e-38aed6c8def2?from=github-tech) |
 | **Botpress** | Software Developer, Intern | Montréal, QC | Winter 2027 | Nov 2 | [Apply ↗](https://coawp.com/go/545bc7e5-6b6a-4e63-b894-493c0a4abb09?from=github-tech) |
 | ↳ | Software Development, Intern | Montréal, QC | Winter 2027 | Nov 2 | [Apply ↗](https://coawp.com/go/bc51ff7a-a254-495f-a1c5-60a27832f2a7?from=github-tech) |
