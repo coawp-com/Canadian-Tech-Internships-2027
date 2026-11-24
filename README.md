@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**420 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**419 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -16,7 +16,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [AI & Machine Learning](#ai--machine-learning) | 43 | 3 |
 | [IT & Infrastructure](#it--infrastructure) | 40 | 5 |
 | [Cybersecurity](#cybersecurity) | 7 | 1 |
-| [Product & Project Management](#product--project-management) | 91 | 8 |
+| [Product & Project Management](#product--project-management) | 90 | 8 |
 | [Design](#design) | 16 | 1 |
 
 Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -381,7 +381,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Product & Project Management
 
-<sub>91 open roles</sub>
+<sub>90 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -402,7 +402,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | Trade Promotion Management Business and Data Analyst, Intern | Georgetown, ON<br>Mississauga, ON<br><sub>Hybrid</sub> | Summer 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/b5158fab-7e57-4345-9c9c-8d88e9c3bda6?from=github-tech) |
 | **Kabam** | Project Coordinator, Co-op | Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/c22a8cbc-9f98-4ede-a569-7d216b4c5e7e?from=github-tech) |
 | **BMO** | Treasury & Payment Solutions Strategy, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/ce70ef93-ebf7-4590-9890-8bf21b67f6ab?from=github-tech) |
-| **Clio** | Project Coordinator, Co-op | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/286d09d9-3c98-4ed3-a976-48d0a31c534f?from=github-tech) |
 | **Manulife** | General Account Investments – Business Architecture, Intern | Toronto, ON | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/7269e29f-9739-4378-84f8-5b9de1613cdd?from=github-tech) |
 | ↳ | General Account Investments Business Architecture, Co-op | Toronto, ON | Winter 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/423bcc40-eca3-45be-8f5a-0940072d0768?from=github-tech) |
 | **Saputo** | Supply Chain IT Analyst, Intern | Georgetown, ON<br>Mississauga, ON<br><sub>Hybrid</sub> | — | Nov 9 | [Apply ↗](https://coawp.com/go/f2e2c39f-2d8e-4f09-b1c3-cf9725e773e2?from=github-tech) |
