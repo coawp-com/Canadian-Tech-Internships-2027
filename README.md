@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**417 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**416 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Software Engineering](#software-engineering) | 159 | 7 |
 | [Data & Analytics](#data--analytics) | 63 | 7 |
-| [AI & Machine Learning](#ai--machine-learning) | 40 | 3 |
+| [AI & Machine Learning](#ai--machine-learning) | 39 | 3 |
 | [IT & Infrastructure](#it--infrastructure) | 40 | 8 |
 | [Cybersecurity](#cybersecurity) | 8 | 2 |
 | [Product & Project Management](#product--project-management) | 91 | 6 |
@@ -263,7 +263,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## AI & Machine Learning
 
-<sub>40 open roles</sub>
+<sub>39 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -294,7 +294,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **J.D. Irving** | Data Scientist, Intern | Saint John, NB | Winter 2027 | Oct 2 | [Apply ↗](https://coawp.com/go/c83e8d4f-47b5-4fb3-88d1-c8147bf9b96f?from=github-tech) |
 | **Pinterest** | Machine Learning, Intern | Toronto, ON | — | Oct 1 | [Apply ↗](https://coawp.com/go/ec1c8846-a6b2-4672-ac01-5eee30e4f319?from=github-tech) |
 | **Stripe** | PhD Data Scientist, Intern | Toronto, ON | — | Oct 1 | [Apply ↗](https://coawp.com/go/41302867-fb05-4384-92d3-1cc128b7e317?from=github-tech) |
-| **Moment Energy** | Data Scientist, Co-op | Surrey, BC | Winter 2027 | Sep 25 | [Apply ↗](https://coawp.com/go/a0762de3-d9ac-4278-a5b7-a6481d33aa2d?from=github-tech) |
 | **Teck** | Structural Geology, Co-op | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/2ea2fc88-5245-4a4b-9c12-57febdaf3f50?from=github-tech) |
 | **Qualcomm** | Machine Learning Compiler & Performance Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Sep 16 | [Apply ↗](https://coawp.com/go/aaf73776-3b2d-4abf-95f6-1de2c1092e22?from=github-tech) |
 | **Lyft** | Software Engineer – Machine Learning, Intern | Toronto, ON | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/cf433417-e3b1-40b4-b0f6-30dbc3fb5a60?from=github-tech) |
