@@ -28,7 +28,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **ABB** | Software, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027 | Nov 24 | [Apply ↗](https://coawp.com/go/b96e463b-d1c8-4378-89cf-efea37c5ace9?from=github-tech) |
-| **Altera** | AI Software Development Engineer, Intern | Toronto, ON | — | Nov 23 | [Apply ↗](https://coawp.com/go/5451a286-efde-4b3a-89f9-c0085c9eb993?from=github-tech) |
+| **Tecsys** | Developer, Intern | Montréal, QC | — | Nov 24 | [Apply ↗](https://coawp.com/go/2fb1e73f-19ec-4452-ba1e-e561e052d34d?from=github-tech) |
 | **SOTI** | Software Developer – XSight, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/1d15ffd4-3215-41db-a143-a3522b93d98f?from=github-tech) |
 | **Brave** | Systems Build, Intern | Canada | 4 months | Nov 23 | [Apply ↗](https://coawp.com/go/1c06239e-341b-4bd8-8b6b-2afe671fa64f?from=github-tech) |
 | ↳ | Software Development – Web3 Core, Intern | Canada | 4 months | Nov 23 | [Apply ↗](https://coawp.com/go/8d780f47-925c-4e88-9067-87c3e6c54395?from=github-tech) |
