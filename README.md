@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**413 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**415 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,9 +12,9 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Software Engineering](#software-engineering) | 154 | 10 |
-| [Data & Analytics](#data--analytics) | 60 | 6 |
+| [Data & Analytics](#data--analytics) | 61 | 7 |
 | [AI & Machine Learning](#ai--machine-learning) | 39 | 1 |
-| [IT & Infrastructure](#it--infrastructure) | 43 | 10 |
+| [IT & Infrastructure](#it--infrastructure) | 44 | 10 |
 | [Cybersecurity](#cybersecurity) | 8 | 1 |
 | [Product & Project Management](#product--project-management) | 93 | 8 |
 | [Design](#design) | 16 | 1 |
@@ -186,10 +186,11 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>60 open roles</sub>
+<sub>61 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Bruce Power** | Data Analytics Development, Intern | Canada | Summer 2027<br><sub>4 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/900b741f-9c89-43a1-933c-c43c448796f9?from=github-tech) |
 | **Super.com** | Data Engineering, Intern | Toronto, ON<br><sub>Remote</sub> | Winter 2027<br><sub>4 months</sub> | Nov 24 | [Apply ↗](https://coawp.com/go/f7e80378-ad92-46e7-91d3-55e81d772287?from=github-tech) |
 | **City of Campbell River** | OMS Project – Capital Projects, Co-op | Campbell River, BC | Winter 2027<br><sub>4 months</sub> | Nov 24 | [Apply ↗](https://coawp.com/go/b35fc9da-424d-4681-b96a-beec8944ff53?from=github-tech) |
 | **BMO** | Commercial Banking Rotational, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/14dd3b26-9065-4b66-b050-426df8204b79?from=github-tech) |
@@ -303,7 +304,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## IT & Infrastructure
 
-<sub>43 open roles</sub>
+<sub>44 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -339,6 +340,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **KRAFTON** | IT Technical Support, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027 | Oct 20 | [Apply ↗](https://coawp.com/go/551aea77-a2bd-4016-b8c8-171a818813c2?from=github-tech) |
 | **IDEMIA Canada** | Information Technology, Intern | Oakville, ON | Summer 2027 | Oct 20 | [Apply ↗](https://coawp.com/go/587f36f3-411e-4723-bb25-7b27cb6d8498?from=github-tech) |
 | **FortisBC** | Information Systems, Co-op | Surrey, BC | Winter 2027<br><sub>4 or 8 months</sub> | Oct 19 | [Apply ↗](https://coawp.com/go/20c75976-9da1-431f-ab3a-e8b0b6ab378d?from=github-tech) |
+| **Kinectrics** | IT Technician, Co-op | Toronto, ON | Winter 2027<br><sub>4 or 8 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/66f302c1-a5fa-48ad-a060-1e14308d3cb8?from=github-tech) |
 | **ARC Resources** | Information Technology, Co-op | Calgary, AB | Summer 2027<br><sub>16 months</sub> | Oct 9 | [Apply ↗](https://coawp.com/go/ba70d266-53c0-4fa7-83e4-b0ed4c00c9b8?from=github-tech) |
 | **Lumentum** | IT Desktop Engineer, Co-op | Ottawa, ON | Winter 2027<br><sub>12 or 16 months</sub> | Oct 8 | [Apply ↗](https://coawp.com/go/7a3cad77-67d4-43fc-8092-e9f44eb8f221?from=github-tech) |
 | **iGuide (Planitar)** | Junior Desktop Technician, Co-op | Waterloo, ON | — | Oct 7 | [Apply ↗](https://coawp.com/go/455260a5-0fce-40a0-bcc8-34c6eca01446?from=github-tech) |
