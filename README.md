@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**415 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**417 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -11,11 +11,11 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 
 | Category | Open roles | New this week |
 |:--|--:|--:|
-| [Software Engineering](#software-engineering) | 154 | 10 |
-| [Data & Analytics](#data--analytics) | 61 | 7 |
+| [Software Engineering](#software-engineering) | 155 | 11 |
+| [Data & Analytics](#data--analytics) | 63 | 9 |
 | [AI & Machine Learning](#ai--machine-learning) | 39 | 1 |
 | [IT & Infrastructure](#it--infrastructure) | 44 | 10 |
-| [Cybersecurity](#cybersecurity) | 8 | 1 |
+| [Cybersecurity](#cybersecurity) | 7 | 1 |
 | [Product & Project Management](#product--project-management) | 93 | 8 |
 | [Design](#design) | 16 | 1 |
 
@@ -23,10 +23,11 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Software Engineering
 
-<sub>154 open roles</sub>
+<sub>155 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Ciena** | Automation Engineer – Global Technical Support, Intern | Ottawa, ON | — | Nov 25 | [Apply ↗](https://coawp.com/go/0f7f3fe8-9166-49fc-ba2d-c082b475c0d5?from=github-tech) |
 | **ABB** | Software, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027 | Nov 24 | [Apply ↗](https://coawp.com/go/b96e463b-d1c8-4378-89cf-efea37c5ace9?from=github-tech) |
 | **Tecsys** | Developer, Intern | Montréal, QC | — | Nov 24 | [Apply ↗](https://coawp.com/go/2fb1e73f-19ec-4452-ba1e-e561e052d34d?from=github-tech) |
 | ↳ | Developer, Intern | Montréal, QC | — | Nov 24 | [Apply ↗](https://coawp.com/go/f4349304-85ec-4c3b-8100-1adcd12fec58?from=github-tech) |
@@ -186,11 +187,13 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>61 open roles</sub>
+<sub>63 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Bruce Power** | Data Analytics Development, Intern | Canada | Summer 2027<br><sub>4 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/900b741f-9c89-43a1-933c-c43c448796f9?from=github-tech) |
+| **Eli Lilly Canada** | Customer Insights & Analytics, Intern | Toronto, ON | 12 months | Nov 25 | [Apply ↗](https://coawp.com/go/edd9e11b-4dd7-4889-8f3c-20d04354a7d0?from=github-tech) |
+| **Nutrien** | Data Analyst, Intern | Saskatchewan | — | Nov 25 | [Apply ↗](https://coawp.com/go/e890de9a-f217-4d34-b386-bb22533b58b4?from=github-tech) |
 | **Super.com** | Data Engineering, Intern | Toronto, ON<br><sub>Remote</sub> | Winter 2027<br><sub>4 months</sub> | Nov 24 | [Apply ↗](https://coawp.com/go/f7e80378-ad92-46e7-91d3-55e81d772287?from=github-tech) |
 | **City of Campbell River** | OMS Project – Capital Projects, Co-op | Campbell River, BC | Winter 2027<br><sub>4 months</sub> | Nov 24 | [Apply ↗](https://coawp.com/go/b35fc9da-424d-4681-b96a-beec8944ff53?from=github-tech) |
 | **BMO** | Commercial Banking Rotational, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/14dd3b26-9065-4b66-b050-426df8204b79?from=github-tech) |
@@ -357,7 +360,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Cybersecurity
 
-<sub>8 open roles</sub>
+<sub>7 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -368,7 +371,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **CAE** | IT Security – Vulnerability Management, Intern | Montréal, QC | — | Oct 21 | [Apply ↗](https://coawp.com/go/d061a790-00dc-468c-ad53-666452c7f3f2?from=github-tech) |
 | ↳ | Cybersecurity Integration Specialist, Intern | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/9cbd5077-f12c-4fff-940c-90a181a55e9b?from=github-tech) |
 | **Teck** | Cyber Risk Analyst, Co-op | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Sep 24 | [Apply ↗](https://coawp.com/go/eb4f59c1-de9f-4074-8194-78896c5e0847?from=github-tech) |
-| **AlayaCare** | Security Analyst, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027 | Sep 17 | [Apply ↗](https://coawp.com/go/a18b4182-3da6-4b00-835a-64a8f9df8dce?from=github-tech) |
 
 <p align="right"><sub><a href="#canadian-tech-internships-2027">Back to top</a></sub></p>
 
