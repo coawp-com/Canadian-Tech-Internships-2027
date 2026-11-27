@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**405 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**404 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 |:--|--:|--:|
 | [Software Engineering](#software-engineering) | 149 | 11 |
 | [Data & Analytics](#data--analytics) | 65 | 12 |
-| [AI & Machine Learning](#ai--machine-learning) | 37 | 0 |
+| [AI & Machine Learning](#ai--machine-learning) | 36 | 0 |
 | [IT & Infrastructure](#it--infrastructure) | 42 | 12 |
 | [Cybersecurity](#cybersecurity) | 6 | 1 |
 | [Product & Project Management](#product--project-management) | 90 | 8 |
@@ -255,7 +255,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## AI & Machine Learning
 
-<sub>37 open roles</sub>
+<sub>36 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -288,7 +288,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Qualcomm** | Machine Learning Compiler & Performance Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Sep 16 | [Apply ↗](https://coawp.com/go/aaf73776-3b2d-4abf-95f6-1de2c1092e22?from=github-tech) |
 | **Lyft** | Software Engineer – Machine Learning, Intern | Toronto, ON | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/cf433417-e3b1-40b4-b0f6-30dbc3fb5a60?from=github-tech) |
 | ↳ | Data Science – Algorithms, Intern | Toronto, ON | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/16f69db7-3d88-4b7c-a943-7cc3603d0e52?from=github-tech) |
-| **Thomson Reuters** | Applied Scientist, Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>6 months</sub> | Sep 2 | [Apply ↗](https://coawp.com/go/d8cf3028-a4ad-4c81-86a1-bb853057712f?from=github-tech) |
 | **Veeda AI** | Internship | Toronto, ON<br>CA<br><sub>Remote</sub> | — | Aug 19 | [Apply ↗](https://coawp.com/go/242f0135-4db6-4203-92b4-61fae107a0d8?from=github-tech) |
 | **Thomson Reuters** | Applied Research – NLP/​ML/​GenAI, Intern | Toronto, ON<br><sub>Hybrid</sub> | 8 months | Aug 16 | [Apply ↗](https://coawp.com/go/88f59036-5702-4c79-8d53-2e39857e975c?from=github-tech) |
 | **Epic Games** | Machine Learning, Intern | Montréal, QC | 5 or 12 months | Aug 7 | [Apply ↗](https://coawp.com/go/db92fa70-d58d-4c78-befd-32e829e32009?from=github-tech) |
