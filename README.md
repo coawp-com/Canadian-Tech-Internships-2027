@@ -2,7 +2,7 @@
 
 # Canadian Tech Internships 2027
 
-**405 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**406 open internships, co-ops and student jobs** in software, data and AI, IT and security, and product and design across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -12,8 +12,8 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | Category | Open roles | New this week |
 |:--|--:|--:|
 | [Software Engineering](#software-engineering) | 149 | 12 |
-| [Data & Analytics](#data--analytics) | 67 | 15 |
-| [AI & Machine Learning](#ai--machine-learning) | 36 | 0 |
+| [Data & Analytics](#data--analytics) | 70 | 18 |
+| [AI & Machine Learning](#ai--machine-learning) | 34 | 0 |
 | [IT & Infrastructure](#it--infrastructure) | 41 | 13 |
 | [Cybersecurity](#cybersecurity) | 6 | 1 |
 | [Product & Project Management](#product--project-management) | 90 | 10 |
@@ -181,14 +181,17 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## Data & Analytics
 
-<sub>67 open roles</sub>
+<sub>70 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **BMO** | Agile Center of Excellence, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/83f19852-65c8-4ab2-8df3-6fc6ec11d475?from=github-tech) |
 | ↳ | Business Analyst, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/06d1e342-b5d0-434f-a10f-8c82b2ba350c?from=github-tech) |
 | **CN** | Car Productivity – Network Operations, Intern | Edmonton, AB | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/f97ef03a-2296-4a00-865d-4f558a8fb32b?from=github-tech) |
+| ↳ | Energy Management – Network Operations, Intern | Montréal, QC | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/93c45b26-abe6-40e4-98d5-520d0c85da89?from=github-tech) |
+| ↳ | Environmental Data Analytics and Dashboards, Intern | Vaughan, ON | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/8ded2f44-c1a5-4906-821d-6b95ec201285?from=github-tech) |
 | ↳ | Liability Data Management, Intern | Winnipeg, MB | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/70f4c36b-12b1-41b1-a98c-3c34b8dce85f?from=github-tech) |
+| ↳ | Wagon Productivity – Network Operations, Intern | Edmonton, AB | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/6b0481d8-888c-4de3-ac5e-53ac8d762fe4?from=github-tech) |
 | **Intercept** | Analytics & Intelligence, Intern | Toronto, ON<br><sub>Remote</sub> | Summer 2027<br><sub>12 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/e20bb14e-ac3c-4390-b4fc-2c35f5bd3ad4?from=github-tech) |
 | **Emera** | Industrial Engineering, Co-op | Dartmouth, NS | Winter 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/24de133b-e439-4307-a122-2cce42f2e916?from=github-tech) |
 | **Bruce Power** | Data Analytics Development, Intern | Canada | Summer 2027<br><sub>4 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/900b741f-9c89-43a1-933c-c43c448796f9?from=github-tech) |
@@ -257,7 +260,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 ## AI & Machine Learning
 
-<sub>36 open roles</sub>
+<sub>34 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -282,8 +285,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | ↳ | AI – Applied & Agentic AI, Intern | Vancouver, BC | Winter 2027<br><sub>5 months</sub> | Oct 9 | [Apply ↗](https://coawp.com/go/c7379bc8-518f-427d-9c49-f40bddafd47e?from=github-tech) |
 | **PSP Investments** | GenAI and Digital Workplace, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 7 | [Apply ↗](https://coawp.com/go/4ec85a50-3ec9-4dda-aeb2-80849743bb3c?from=github-tech) |
 | **CAE** | Artificial Intelligence, Co-op | Montréal, QC | — | Oct 5 | [Apply ↗](https://coawp.com/go/6f993146-7b27-4044-ac5a-14a3176af791?from=github-tech) |
-| **Fleetway** | Data Scientist, Intern | Saint John, NB | Winter 2027 | Oct 2 | [Apply ↗](https://coawp.com/go/4c6f07d4-2006-489a-a899-1b91de419c6f?from=github-tech) |
-| **J.D. Irving** | Data Scientist, Intern | Saint John, NB | Winter 2027 | Oct 2 | [Apply ↗](https://coawp.com/go/c83e8d4f-47b5-4fb3-88d1-c8147bf9b96f?from=github-tech) |
 | **Pinterest** | Machine Learning, Intern | Toronto, ON | — | Oct 1 | [Apply ↗](https://coawp.com/go/ec1c8846-a6b2-4672-ac01-5eee30e4f319?from=github-tech) |
 | **Stripe** | PhD Data Scientist, Intern | Toronto, ON | — | Oct 1 | [Apply ↗](https://coawp.com/go/41302867-fb05-4384-92d3-1cc128b7e317?from=github-tech) |
 | **Teck** | Structural Geology, Co-op | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/2ea2fc88-5245-4a4b-9c12-57febdaf3f50?from=github-tech) |
