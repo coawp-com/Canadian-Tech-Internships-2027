@@ -16,7 +16,7 @@ Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Inte
 | [AI & Machine Learning](#ai--machine-learning) | 36 | 0 |
 | [IT & Infrastructure](#it--infrastructure) | 42 | 12 |
 | [Cybersecurity](#cybersecurity) | 6 | 1 |
-| [Product & Project Management](#product--project-management) | 90 | 8 |
+| [Product & Project Management](#product--project-management) | 90 | 9 |
 | [Design](#design) | 16 | 0 |
 
 Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027), [business](https://github.com/coawp-com/Canadian-Business-Internships-2027), [finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) and [science & health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027).
@@ -370,6 +370,7 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Aecon** | Project Coordinator, Co-op | Toronto, ON | Winter 2027 | Nov 26 | [Apply ↗](https://coawp.com/go/43a4256c-aa67-49b5-a629-188601229139?from=github-tech) |
 | **BMO** | Product Associate, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/dc3f8286-1136-48fc-9163-d76e4bfd771d?from=github-tech) |
 | **Axiom Builders** | Project Coordinator, Co-op | Victoria, BC | Summer 2027<br><sub>4 or 8 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/a3cca690-5a72-4408-8e5a-cc3e9a0c7f31?from=github-tech) |
 | **Aecon** | Jr. Project Coordinator, Co-op | Kincardine, ON | Summer 2027<br><sub>12 or 16 months</sub> | Nov 24 | [Apply ↗](https://coawp.com/go/4eaaf8df-c19e-4d0d-9ef9-72bbf120aa3e?from=github-tech) |
@@ -378,7 +379,6 @@ Also see the lists for [engineering](https://github.com/coawp-com/Canadian-Engin
 | **Modern Niagara** | Project Coordinator, Co-op | Halifax, NS | Winter 2027<br><sub>8 or 12 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/01c0be4f-a774-4751-ae2d-a2cf9694d2ef?from=github-tech) |
 | **Honeywell Aerospace** | Program Control – PC Analyst, Intern | Mississauga, ON<br><sub>Hybrid</sub> | — | Nov 23 | [Apply ↗](https://coawp.com/go/0f1b08c9-4fcb-4469-9cf1-c9de384773e5?from=github-tech) |
 | **Aecon** | Project Controls, Co-op | Pickering, ON | Winter 2027<br><sub>8 or 16 months</sub> | Nov 21 | [Apply ↗](https://coawp.com/go/ffb9d671-1ff1-4751-ad4b-cf81ac019ea4?from=github-tech) |
-| ↳ | Project Coordinator, Co-op | Toronto, ON | 8 months | Nov 19 | [Apply ↗](https://coawp.com/go/5393cdcb-3e88-44b5-8a64-80a078f51220?from=github-tech) |
 | **BDO Canada** | Business Analysis & Quality Assurance, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/1818ff10-04e0-4e3a-a512-4f890dbbc461?from=github-tech) |
 | **Bombardier** | Project Coordination and Tool Development, Intern | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/f2f2d0d0-1edc-4f3f-81c5-5cf8eae6094d?from=github-tech) |
 | ↳ | Project Coordination and Tool Programming, Intern | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/663ffacb-5afa-4fcd-940b-8024ae035666?from=github-tech) |
